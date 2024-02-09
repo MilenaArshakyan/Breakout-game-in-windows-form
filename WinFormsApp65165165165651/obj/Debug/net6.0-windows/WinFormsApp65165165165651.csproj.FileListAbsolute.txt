@@ -1,0 +1,141 @@
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+F:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+D:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+E:\WinFormsApp65165165165651\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+D:\New folder\gjjuy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+D:\New folder\gjjuy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+D:\New folder\gjjuy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Properties.Resources.resources
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Properties.Resources.resources
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+D:\New folder\gjjuy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Properties.Resources.resources
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+D:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Properties.Resources.resources
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+F:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.exe
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.deps.json
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.runtimeconfig.json
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\bin\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.AssemblyReference.cache
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Form1.resources
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.Properties.Resources.resources
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.GenerateResource.cache
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfoInputs.cache
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.AssemblyInfo.cs
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.csproj.CoreCompileInputs.cache
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.dll
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\refint\WinFormsApp65165165165651.dll
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.pdb
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\WinFormsApp65165165165651.genruntimeconfig.cache
+E:\New folder\gjjuy - Copy - Copy\WinFormsApp65165165165651\obj\Debug\net6.0-windows\ref\WinFormsApp65165165165651.dll
